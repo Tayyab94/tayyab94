@@ -1,18 +1,10 @@
 # 👋 Hi, I'm Muhammad Tayyab  
 
 🚀 **Full-Stack .NET Developer | React | Next.js | Blazor | C# | Node.js**  
-📍 **Gujranwala, Pakistan**  
+📍 **KL, Malaysia**  
 📧 [tayyab.bhatti30@gmail.com](mailto:tayyab.bhatti30@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/mtayyab94) | [GitHub](https://github.com/Tayyab94)  
 
-## 🛠️ About Me  
-
-I’m a **Full-Stack Developer** with **6+ years** of experience in designing, developing, and deploying **scalable web applications**. My expertise lies in:  
-- Building high-performance **.NET Core & Blazor** applications  
-- Developing **React, Next.js**, and **AngularJS** front-end solutions  
-- Working with **SQL Server, MongoDB, Firebase, and PostgreSQL**  
-- Implementing **SOLID principles, Microservices, and CI/CD Pipelines**  
-- Integrating **third-party APIs and optimizing system performance**  
 
 ## ⚡ Tech Stack  
 
@@ -21,22 +13,6 @@ I’m a **Full-Stack Developer** with **6+ years** of experience in designing, d
 🔹 **Backend:** ASP.NET Core, .NET 8, Node.js, Express.js  
 🔹 **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB, Firebase  
 🔹 **DevOps & Tools:** Git, Docker, Azure DevOps, GitHub Actions, Swagger  
-
-## 📌 Featured Projects  
-
-✅ **Workerlot.com** - A workforce management platform  
-✅ **Facebook Clone** - Built with .NET MVC5  
-✅ **E-Marketing Platform** - Developed in .NET MVC  
-✅ **Donation App (Blood & Medicine)** - Created with .NET Core  
-✅ **ERP for Electronics Business** - Full-stack .NET Core solution  
-✅ **Job Portal & Business Web Portal** - ReactJS & Next.js-based applications  
-
-## 💬 Let's Connect!  
-
-If you're looking for a **skilled .NET & React developer**, feel free to reach out! 🚀  
-📧 **Email:** [tayyab.bhatti30@gmail.com](mailto:tayyab.bhatti30@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/mtayyab94](https://linkedin.com/in/mtayyab94)  
-🔗 **GitHub:** [github.com/Tayyab94](https://github.com/Tayyab94)  
 
 
 <h1 align="center">Hi, I'm Muhammad Tayyab! 👋</h1>
@@ -55,6 +31,15 @@ I’m a **Full-Stack Developer** with **6+ years** of experience in designing, d
 - 📫 How to reach me: **tayyab.bhatti30@gmail.com**
 
 ---
+
+## 📌 Featured Projects  
+
+✅ **Workerlot.com** - A workforce management platform  
+✅ **Facebook Clone** - Built with .NET MVC5  
+✅ **E-Marketing Platform** - Developed in .NET MVC  
+✅ **Donation App (Blood & Medicine)** - Created with .NET Core  
+✅ **ERP for Electronics Business** - Full-stack .NET Core solution  
+✅ **Job Portal & Business Web Portal** - ReactJS & Next.js-based applications  
 
 ## 📢 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtayyab94/)
