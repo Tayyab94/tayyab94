@@ -42,6 +42,13 @@ If you're looking for a **skilled .NET & React developer**, feel free to reach o
 <h1 align="center">Hi, I'm Muhammad Tayyab! 👋</h1>
 
 ## 🚀 About Me
+I’m a **Full-Stack Developer** with **6+ years** of experience in designing, developing, and deploying **scalable web applications**. My expertise lies in:  
+- Building high-performance **.NET Core & Blazor** applications  
+- Developing **React, Next.js**, and **AngularJS** front-end solutions  
+- Working with **SQL Server, MongoDB, Firebase, and PostgreSQL**  
+- Implementing **SOLID principles, Microservices, and CI/CD Pipelines**  
+- Integrating **third-party APIs and optimizing system performance**  
+
 - 🔭 I’m a **Full-Stack .NET Developer**
 - 🌱 I’m currently learning **DevOps & Cloud Technologies**
 - 💬 Ask me about **C#, .NET Core, ReactJS, SQL**
