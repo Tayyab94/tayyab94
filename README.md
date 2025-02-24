@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I’m a **passionate Full-Stack Developer** with **6+ years** of experience crafting scalable, high-performance web applications. My expertise lies in:  
+I’m a **passionate Full-Stack Developer** with extensive experience in crafting scalable, high-performance web applications.My expertise lies in:  
 
 💡 **Building** high-performance **.NET Core** & **Blazor** applications  
 🎨 **Developing** sleek & interactive **React.js, Next.js, and Angular** front-end solutions  
