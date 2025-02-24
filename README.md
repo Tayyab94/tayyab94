@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Tayyab  
 
-🚀 **Full-Stack .NET Developer | React | Next.js | Blazor | C# | Node.js**  
+🚀 **Full-Stack .NET Developer | React | Next.js | Blazor | C# | Node.js | Data Analysis | Power BI**
 📍 **KL, Malaysia**  
 📧 [tayyab.bhatti30@gmail.com](mailto:tayyab.bhatti30@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/mtayyab94) | [GitHub](https://github.com/Tayyab94)  
