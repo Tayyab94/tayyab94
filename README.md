@@ -75,7 +75,6 @@ I’m a **Full-Stack Developer** with **6+ years** of experience in designing, d
 ✅ **Donation App (Blood & Medicine)** - Created with .NET Core  
 ✅ **ERP for Electronics Business** - Full-stack .NET Core solution  
 ✅ **Job Portal & Business Web Portal** - ReactJS & Next.js-based applications  
----
 
 ## 📊 GitHub Stats
 ![Tayyab94's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tayyab94&show_icons=true&theme=dark)
