@@ -7,17 +7,18 @@
 
 
 ## 🚀 About Me
-I’m a **Full-Stack Developer** with **6+ years** of experience in designing, developing, and deploying **scalable web applications**. My expertise lies in:  
-- Building high-performance **.NET Core & Blazor** applications  
-- Developing **React, Next.js**, and **AngularJS** front-end solutions  
-- Working with **SQL Server, MongoDB, Firebase, and PostgreSQL**  
-- Implementing **SOLID principles, Microservices, and CI/CD Pipelines**  
-- Integrating **third-party APIs and optimizing system performance**  
+I’m a **passionate Full-Stack Developer** with **6+ years** of experience crafting scalable, high-performance web applications. My expertise lies in:  
 
-- 🔭 I’m a **Full-Stack .NET Developer**
-- 🌱 I’m currently learning **DevOps & Cloud Technologies**
-- 💬 Ask me about **C#, .NET Core, ReactJS, SQL**
-- 📫 How to reach me: **tayyab.bhatti30@gmail.com**
+💡 **Building** high-performance **.NET Core** & **Blazor** applications  
+🎨 **Developing** sleek & interactive **React.js, Next.js, and Angular** front-end solutions  
+🛠 **Architecting** scalable **Microservices** & implementing **SOLID principles**  
+💾 **Managing** databases like **SQL Server, MongoDB, Firebase, and PostgreSQL**  
+⚡ **Optimizing** system performance & integrating **third-party APIs**  
+🚀 **Automating** deployments with **CI/CD Pipelines, DevOps, and Cloud Technologies**  
+
+### 🌱 What I’m Currently Exploring  
+🔹 **DevOps & Cloud Technologies** (Azure, Docker, Kubernetes)  
+🔹 **Advanced System Design & Architecture**  
 
 ---
 
