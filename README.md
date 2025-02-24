@@ -6,8 +6,6 @@
 🔗 [LinkedIn](https://linkedin.com/in/mtayyab94) | [GitHub](https://github.com/Tayyab94)  
 
 
-<h1 align="center">Hi, I'm Muhammad Tayyab! 👋</h1>
-
 ## 🚀 About Me
 I’m a **Full-Stack Developer** with **6+ years** of experience in designing, developing, and deploying **scalable web applications**. My expertise lies in:  
 - Building high-performance **.NET Core & Blazor** applications  
@@ -23,15 +21,6 @@ I’m a **Full-Stack Developer** with **6+ years** of experience in designing, d
 
 ---
 
-## 📌 Featured Projects  
-
-✅ **Workerlot.com** - A workforce management platform  
-✅ **Facebook Clone** - Built with .NET MVC5  
-✅ **E-Marketing Platform** - Developed in .NET MVC  
-✅ **Donation App (Blood & Medicine)** - Created with .NET Core  
-✅ **ERP for Electronics Business** - Full-stack .NET Core solution  
-✅ **Job Portal & Business Web Portal** - ReactJS & Next.js-based applications  
-
 ## 📢 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtayyab94/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tayyab94)
@@ -39,7 +28,6 @@ I’m a **Full-Stack Developer** with **6+ years** of experience in designing, d
 
 ---
 
-## 🛠 Tech Stack
 ## 🛠 Tech Stack  
 
 ### Languages  
@@ -77,6 +65,16 @@ I’m a **Full-Stack Developer** with **6+ years** of experience in designing, d
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
 
 
+---
+
+## 📌 Featured Projects  
+
+✅ **Workerlot.com** - A workforce management platform  
+✅ **Facebook Clone** - Built with .NET MVC5  
+✅ **E-Marketing Platform** - Developed in .NET MVC  
+✅ **Donation App (Blood & Medicine)** - Created with .NET Core  
+✅ **ERP for Electronics Business** - Full-stack .NET Core solution  
+✅ **Job Portal & Business Web Portal** - ReactJS & Next.js-based applications  
 ---
 
 ## 📊 GitHub Stats
