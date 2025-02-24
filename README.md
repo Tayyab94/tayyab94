@@ -81,13 +81,6 @@ I’m a **passionate Full-Stack Developer** with extensive experience in craftin
 ![Tayyab94's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tayyab94&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab94&layout=compact&theme=dark)
 
-## 📊 GitHub Stats
-
-![Tayyab94's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tayyab94&show_icons=true&theme=dark)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab94&layout=compact&langs_count=8&theme=dark&hide=html,css&include_title=true)
-
-
 ---
 
 ## 🏆 Achievements
